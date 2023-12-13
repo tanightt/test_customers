@@ -1,9 +1,7 @@
 # Dashboard
 
-[Live Page]()
+[Live Page](https://tanightt.github.io/test_customers/)
 
-![Desktop](./images/desktop.png)
-![Tablet](./images/tablet.png)
 ![Mobile](./images/mobile.png)
 
 ## Project description
